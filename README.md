@@ -1,9 +1,9 @@
-# NAME
+# I'm KyomaSuzuki🙌
+Welcome to my github!
 
-鈴木暁満
+# profile
+## Language
+- C
+- C++
+- C#
 
-# About me
-
-# KyomaSuzuki
-
-あとでいろいろ書く
