@@ -13,7 +13,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 ### Documents & Tools
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
