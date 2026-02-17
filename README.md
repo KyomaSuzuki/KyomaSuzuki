@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Kyoma Suzuki
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Kyoma%20Suzuki&fontSize=90" />
-</p>
 
 <p align="center">
   <a href="[YOUR_WEBSITE_URL](https://kyomasuzuki.github.io/)"><img src="https://img.shields.io/badge/WebSite-333333?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -23,11 +20,6 @@
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyomaSuzuki&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyomaSuzuki&layout=compact&theme=tokyonight&hide_progress=false" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyomaSuzuki&theme=tokyonight" width="100%" />
 </p>
 
@@ -45,11 +37,6 @@
 ---
 
 ### ✍️ Latest Blog Posts (Qiita)
-* [記事タイトル1](URL)
-* [記事タイトル2](URL)
+* [卒論を LaTeX × GitHub で安全運用する方法（CloudLaTeX + VSCode + Actions）]((https://qiita.com/KyomaSuzuki/items/f237933a586e471f4b6d))
 
 ---
-
-<p align="center">
-  <img src="https://projects.wojtek.im/zg-badges/badge.svg?username=KyomaSuzuki" />
-</p>
